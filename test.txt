@@ -10,3 +10,8 @@ git add filename and extention
 git commit -m "Initial Message"
 git push origin main
 then verify
+
+
+to logout
+git config --global --unset user.name
+git config --global --unset user.email
