@@ -1,0 +1,4 @@
+for global login
+$ git config --global user.name "MaryamKhan67"
+$ git config --global user.email "khanworkmaryam@gmail.com"
+
