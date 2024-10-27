@@ -14,5 +14,6 @@ then verify
 
 
 to logout
+control panel -> credential manager -> windows credentials
 git config --global --unset user.name
 git config --global --unset user.email
