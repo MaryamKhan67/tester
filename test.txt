@@ -5,6 +5,7 @@ $ git config --global user.email "khanworkmaryam@gmail.com"
 
 for pushing files onto repo
 create the file
+go to that location cd ""
 git remote add origin [add your repository link do not add brackets]
 git add filename and extention
 git commit -m "Initial Message"
